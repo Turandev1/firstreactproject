@@ -1,0 +1,51 @@
+export  const pizzas = [
+    {
+      title: "Sucuklu Pizza",
+      description: "Lorem ipsum dolor sit amet consectetur.",
+      price: 200,
+      key: 1,
+      isactive: true,
+    },
+    {
+      title: "Peynirli Pizza",
+      description: "Lorem ipsum dolor sit amet consectetur.",
+      price: 400,
+      key: 2,
+      isactive: true,
+    },
+    {
+      title: "acili Pizza",
+      description: "Lorem ipsum dolor sit amet consectetur.",
+      price: 500,
+      key: 3,
+      isactive: false,
+    },
+    {
+      title: "kartoflu Pizza",
+      description: "Lorem ipsum dolor sit amet consectetur.",
+      price: 400,
+      key: 4,
+      isactive: true,
+    },
+    {
+      title: "Yaxsi Pizza",
+      description: "Lorem ipsum dolor sit amet consectetur.",
+      price: 600,
+      key: 5,
+      isactive: false,
+    },
+    {
+      title: "Pendirli Pizza",
+      description: "Lorem ipsum dolor sit amet consectetur.",
+      price: 800,
+      key: 6,
+      isactive: true,
+    },
+    {
+      title: "Saglam Pizza",
+      description: "Lorem ipsum dolor sit amet consectetur.",
+      price: 100,
+      key: 7,
+      isactive: true,
+    },
+  ];
